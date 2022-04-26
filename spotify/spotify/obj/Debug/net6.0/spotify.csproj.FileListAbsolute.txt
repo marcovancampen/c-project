@@ -1,0 +1,15 @@
+C:\Users\marco\source\repos\spotify\spotify\bin\Debug\net6.0\spotify.exe
+C:\Users\marco\source\repos\spotify\spotify\bin\Debug\net6.0\spotify.deps.json
+C:\Users\marco\source\repos\spotify\spotify\bin\Debug\net6.0\spotify.runtimeconfig.json
+C:\Users\marco\source\repos\spotify\spotify\bin\Debug\net6.0\spotify.dll
+C:\Users\marco\source\repos\spotify\spotify\bin\Debug\net6.0\spotify.pdb
+C:\Users\marco\source\repos\spotify\spotify\obj\Debug\net6.0\spotify.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\spotify\spotify\obj\Debug\net6.0\spotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\spotify\spotify\obj\Debug\net6.0\spotify.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\spotify\spotify\obj\Debug\net6.0\spotify.AssemblyInfo.cs
+C:\Users\marco\source\repos\spotify\spotify\obj\Debug\net6.0\spotify.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\spotify\spotify\obj\Debug\net6.0\spotify.dll
+C:\Users\marco\source\repos\spotify\spotify\obj\Debug\net6.0\refint\spotify.dll
+C:\Users\marco\source\repos\spotify\spotify\obj\Debug\net6.0\spotify.pdb
+C:\Users\marco\source\repos\spotify\spotify\obj\Debug\net6.0\spotify.genruntimeconfig.cache
+C:\Users\marco\source\repos\spotify\spotify\obj\Debug\net6.0\ref\spotify.dll
