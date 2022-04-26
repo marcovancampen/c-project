@@ -182,6 +182,9 @@ class Program
                     break;
                 case "4":
                     Console.WriteLine("what do you want to edit in your playlist");
+                    Console.WriteLine("type 'add' to add a song");
+                    Console.WriteLine("type 'delete' to delete a song");
+                    Console.WriteLine("type 'delete playlist' to delete a playlist");
                     input2 = Console.ReadLine();
                     if (input2 == "add")
                     {
@@ -283,9 +286,12 @@ class Program
                     {
                         Console.WriteLine(friend);
                     }
-                    Console.WriteLine("wanna add a friend?");
+                    Console.WriteLine("what do you want to do with your friends");
+                    Console.WriteLine("type 'add' to add a friend");
+                    Console.WriteLine("type 'delete' to delete a friend");
+                    Console.WriteLine("type copy 'playlist' to copy a playlist");
                     input2 = Console.ReadLine();
-                    if (input2 == "yes")
+                    if (input2 == "add")
                     {
                         Console.WriteLine("Enter the name of the friend you want to add");
                         input2 = Console.ReadLine();
@@ -394,6 +400,9 @@ class Program
                     break;
                 case "7":
                     Console.WriteLine("what do you want to edit in your album");
+                    Console.WriteLine("tpye 'add ' to add a music to the album");
+                    Console.WriteLine("type 'delete' to delete a music from the album");
+                    Console.WriteLine("type 'delete album' to delete the album");
                     input2 = Console.ReadLine();
                     if (input2 == "add")
                     {
